@@ -233,11 +233,11 @@ export const workExperience = [
 
 export const socialMedia = [
   
-  {
-    id: 1,
-    img: "/twit.svg",
-    link:""
-  },
+  // {
+  //   id: 1,
+  //   img: "/twit.svg",
+  //   link:""
+  // },
   
   {
     id: 2,
