@@ -109,31 +109,31 @@ export const testimonials = [
     quote:
       "Zahraa's web development skills are exceptional. She turned our vision into a magnificent, functional website that exceeded our expectations. Her clear communication of complex ideas made the entire process smooth and enjoyable. She helped us build the Saudi Mustro website to display music courses on it.",
     name: "Sarah  Al Otabi",
-    // title: "Director of AlphaStream Technologies",
+    title: "Master's Degree Student",
   },
   {
     quote:
       "From the initial consultation to the final launch, Zahraa demonstrated a high level of professionalism and expertise. Her innovative solutions and strategic thinking helped us achieve a clothes e-commerce website for graduation project. We highly recommend her services especially if you face any difficulties in graduation.",
     name: "Bushra Al Kiyumi",
-    // title: "Director of AlphaStream Technologies",
+    title: "Bachelor Student ",
   },
   {
     quote:
       "I had the pleasure of learning from Zahraa in the front-end session at Udacity. Her expertise and passion for teaching were evident in every lesson. Zahraa's commitment to fostering a collaborative learning environment is invaluable. Her dedication and effort were truly appreciated, significantly enhancing my understanding of front-end.",
     name: "Amani Alkamshki",
-    // title: "Director of AlphaStream Technologies",
+    title: "Udacity Student",
   },
   {
     quote:
       "Studying front-end development with Zahraa at Udacity was fantastic! Her creative teaching made learning fun and engaging. Zahraa's support helped me unlock my potential and strive for excellence. She was a true inspiration, teaching valuable lessons about life and work. Thank you, Zahraa, for making a lasting impact on my success!",
     name: "Jawaher AL-Hakmani",
-    // title: "Director of AlphaStream Technologies",
+    title: "Udacity Student",
   },
   {
     quote:
       "Learning front-end development with Zahraa at Udacity was transformative. Her innovative teaching made the lessons exciting and effective. Zahraa's encouragement and support helped me realize my potential and strive for excellence. She was a true inspiration, and her guidance was invaluable. Thank you, Zahraa, for everything!",
     name: "Afnan Al Khayari",
-    // title: "Director of AlphaStream Technologies",
+    title: "Udacity Student",
   },
 ];
 
