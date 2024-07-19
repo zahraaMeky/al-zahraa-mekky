@@ -1,5 +1,4 @@
 import { socialMedia } from "@/data";
-import { Label } from "./ui/Label";
 import { Input } from "./ui/Input";
 import SignupForm from "./SignupForm";
 import Link from 'next/link'
