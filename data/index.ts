@@ -187,7 +187,7 @@ export const skills = [
   },
   {
     id: 4,
-    name: "Tailwind CSS",
+    name: "Tailwind",
     img: "/tailwind-css-2.svg",
   },
   {
