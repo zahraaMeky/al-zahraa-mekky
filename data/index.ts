@@ -111,8 +111,14 @@ export const projects = [
     title: "AI Travel Planner App",
     des: "Full-stack React Native app offering personalized travel recommendations and trip management.",
     img: "/AiTravel.svg",
-    iconLists: ["/r.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    iconLists: [
+      "/react.svg",
+      "/firebase-svgrepo-com.svg",
+      "/google-maps-2020-icon.svg",
+      "/google-gemini-icon.svg",
+      "/expo-svgrepo-com.svg",
+    ],
+    link: "https://github.com/zahraaMeky/ai-travel-planner-app",
   },
 ];
 
