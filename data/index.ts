@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "AI Content Generator App",
     des: "Harnesses the power of AI to assist users in generating high-quality content across various platforms.",
-    img: "/pro1.svg",
+    img: "/aiContentGenerator.svg",
     iconLists: [
       "/next.svg",
       "/tail.svg",
@@ -88,7 +88,7 @@ export const projects = [
     id: 2,
     title: "Home Service App",
     des: "Connect homeowners with local service providers for various home maintenance and improvement needs.",
-    img: "pro2.svg",
+    img: "homeServicesApp.svg",
     iconLists: [
       "/next.svg",
       "/tail.svg",
@@ -110,13 +110,13 @@ export const projects = [
     id: 4,
     title: "AI Travel Planner App",
     des: "Full-stack React Native app offering personalized travel recommendations and trip management.",
-    img: "/AiTravel.svg",
+    img: "/aitravelApp.svg",
     iconLists: [
       "/react.svg",
       "/firebase-svgrepo-com.svg",
       "/google-maps-2020-icon.svg",
       "/google-gemini-icon.svg",
-      "/expo-svgrepo-com.svg",
+      "/expoio-icon.svg",
     ],
     link: "https://github.com/zahraaMeky/ai-travel-planner-app",
   },
