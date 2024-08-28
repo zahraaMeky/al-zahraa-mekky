@@ -100,11 +100,17 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Car Rental App",
-    des: "Car rental app offering seamless user authentication, easy booking, and a smooth, user-friendly experience.",
-    img: "/CarRental.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/hygraph.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    title: "React Node E-Commerce",
+    des: "A seamless online shopping experience built with React for a dynamic frontend, Node.js for a powerful backend, and MongoDB for reliable database management.",
+    img: "/ecomerce.svg",
+    iconLists: [
+      "/nodejs-icon.svg",
+      "/reactjs-icon.svg",
+      "/tail.svg",
+      "/mongodb-icon.svg",
+      "/pic_logo.svg",
+    ],
+    link: "/https://ecommerce-0ii0.onrender.com/",
   },
   {
     id: 4,
