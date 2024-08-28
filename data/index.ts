@@ -216,10 +216,9 @@ export const skills = [
   },
   {
     id: 5,
-    name: "Three.js",
-    img: "/three.svg",
+    name: "React",
+    img: "/reactjs-icon.svg",
   },
-  
 ];
 export const workExperience = [
 
